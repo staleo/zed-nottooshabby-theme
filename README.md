@@ -2,8 +2,6 @@
 
 Pretty much fine theme for Zed.
 
-A dark theme based on Material Palenight High Contrast, carefully tuned for comfortable coding.
-
 ## Installation
 
 1. Open Zed
@@ -21,17 +19,6 @@ A dark theme based on Material Palenight High Contrast, carefully tuned for comf
 - High contrast for better readability
 - Muted git blame text that doesn't distract
 - Soft purple for instance variables
-
-## Colors
-
-- **Background**: `#1b1e2b` / `#292d3e`
-- **Text**: `#babed8`
-- **Accent**: `#80cbc4` (teal)
-- **Keywords**: `#89ddff` (cyan)
-- **Functions**: `#82aaff` (blue)
-- **Strings**: `#c3e88d` (green)
-- **Numbers**: `#f78c6c` (orange)
-- **Types**: `#ffcb6b` (yellow)
 
 ## Author
 
